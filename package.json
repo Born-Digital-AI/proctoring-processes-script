@@ -1,0 +1,15 @@
+{
+  "name": "process-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "processes.js",
+  "scripts": {
+    "start": "node processes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ps-list": "^7.2.0"
+  }
+}
